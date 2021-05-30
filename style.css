@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+    background-color:lightblue;
+}
+#title{
+  text-align:center;
+  color:rgb(68, 8, 8);
+}
+#main{
+  text-align:center;
+}
+figcaption{
+  text-align:center;
+  font-size:24px;
+}
+img{
+  width:100%;
+  height:auto;
+}
+li{
+  padding:0 10px;
+  line-height: 2rem;
+}
+
+footer{
+  font-size:20px;
+  color:rgb(68, 8, 8);
+  background-color:rgb(133, 133, 137);
+  text-align:center;
+  padding:5px;
+  font-family:auto;
+}
+
+#para{
+  color:rgb(39, 55, 96);
+  font-size:18px;
+}
+
+#tribute-link{
+  text-align:center;
+  font-size:20px;
+}
+a:link {
+  text-decoration: none;
+}
